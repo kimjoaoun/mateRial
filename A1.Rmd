@@ -1,0 +1,170 @@
+---
+title: "R - A1"
+author: "Joao Pedro Oliveira"
+date: "19 de marco de 2019"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+### Entendendo o R
+
+O R é uma linguagem de programação que tem como o objetivo principal aplicações estatísticas, matemáticas e de análise de dados, tendo sua principal vantagem o fato de ser _open-source_, isto é, seu código é aberto. Isso significa que o R é e sempre será gratuito, não sendo permitido a cobrança, seja por venda ou assinatura, pelo uso da linguagem, que recebe constantes atualizações. Além disso, ele possui uma infinidade de extensões (pacotes/libraries) que adicionam novas funções à linguagem. Por conta desse ambiente hospitaleiro, o R se tornou a lingua franca da análise de dados na Academia (E isso engloba tanto as ciências sociais, quanto as exatas e as biológicas).
+
+![Ciclo da manipulação de dados em R](https://d33wubrfki0l68.cloudfront.net/571b056757d68e6df81a3e3853f54d3c76ad6efc/32d37/diagrams/data-science.png)
+
+### O começo
+
+Após instalar o [R](https://cran.r-project.org/mirrors.html) e o [RStudio](https://www.rstudio.com/products/RStudio/), e iniciar o último você irá se deparar com um ambiente que possui:
+
+![O ambiente do RStudio](http://www.sthda.com/sthda/RDoc/images/rstudio.png)
+
+#### Canto inferior esquerdo
+
+
+ Console - Onde você pode observar as saídas (respostas que o R te dará).
+
+
+#### Canto superior esquerdo
+
+
+ Botão New - Que cria novos arquivos, que são chamados de scripts.
+ 
+ Editor - Painel onde é possível redigir códigos mais longos e bem formatados.
+ 
+ Botão Run - Executa o código selecionado no Editor.
+
+
+#### Canto superior direito
+
+
+ Environment - Exibe as variáveis existentes e datasets inseridos.
+
+
+#### Canto inferior direito
+
+
+ Plots - Janela onde estão exibidas as visualizações geradas.
+ 
+ Packages - Janela onde estão disponíveis os pacotes instalados.
+ 
+ Help - Janela onde são exibidos os resultados das funções ``help()``.
+
+
+# Iniciando os Trabalhos
+
+De inicio vamos aprender as estruturas básicas do R. Antes é necessário entender que esta é uma linguagem orientada à objetos, isto é, quase tudo é um objeto que possui atributos e é manipulável. Porém, para o nível deste mini-curso, não é necessário entender o que é e como funciona a Orientação à Objetos, só basta saber isso, objetos existem.
+
+O R é uma supercalculadora, você pode fazer desde cálculos mais simples até mais complexos, usando os operadores matemáticos básicos, como:
+
+```{r}
+1+1
+2*5
+5/5
+2^3
+((1^3)*4)/7
+```
+
+Para fazer operações matemáticas menos intuitivas, você tem algumas funções básicas (voltaremos logo-logo às funções):
+
+```{r}
+print ('Thalia, te amo')
+
+exp(5) #exponencial de 5
+
+factorial(5) #fatorial de 5
+
+sqrt(15) #raiz quadrada de 10
+
+choose(20,2) #permutação de quatro, dois a dois
+
+mean(c(10, 30, 69, 110, 203, 1000)) #tira a média dos valores dentro da c()
+
+```
+
+Ele permite também que você faça testes lógicos, por exemplo, caso você esteja em dúvida se 2+2 realmente é igual à 4, você pode perguntar ao R
+
+```{r}
+2+2 == 4 #testa se 2+2 é igual a 4
+
+1+2 > 5 #testa se 1+2 é maior que 5
+
+1 != 2 #testa se 1 é diferente de dois
+
+'bananas' == 'laranjas' #testa se bananas e laranjas são a mesma coisa
+```
+
+Mas não só de números vive essa cálculadora, como pode-se ver abaixo, onde temos nossa primeira interação com uma variável, esta sendo x:
+
+```{r}
+x <- ("Olá, Mundo")
+x
+``` 
+
+Também é possível atribuir numeros às variáveis e somar elas:
+
+```{r}
+um <- 1
+dois <- 2
+
+um + dois
+```
+
+Você deverá ler o trecho acima como "atribua '1' à variável 'um', e '2' à variável dois", e isso é o que o R fará. Após isso ser feito, o R entenderá que ```1``` corresponde à ```um```. Se, ```um + dois``` é igual à ```1+2```, a soma dos dois primeiros é igual a ```3```.
+
+E o sistema de atribuições é bem versátil, visto que praticamente qualquer coisa pode ser atribuida a um objeto, desde frases e números, à resultados de funções, observe o código abaixo. Nele eu atribuo valores numéricos ao objeto 'numeros' e letras ao objeto 'nomes'.
+
+```{r Tabelas}
+numeros <- c(100, 200, 300)
+nomes <- c('Cateline', 'Renan', 'Pablo')#note a existencia do 'c' antes do '()', ele indica 'concatenar', ou seja, e em seguida haverá um parenteses com diversos valores dentro
+amigos <- data.frame(nomes, numeros)
+amigos
+```
+
+Aliás, se voce executar o código acima, irá descobrir uma função nova, este é o dataframe, que é nada mais que uma tabela na qual voce pode armazenar dados, desde que sejam compostos de números e/ou letras. Ele é composto por linhas (rows) e colunas (columns), podendo ser de qualquer tamanho. Para entender mais sobre o dataframe, pode-se pedir ajuda com a função ```help()```, só digitar ```help(data.frame)``` e será exibida na lateral do seu RStudio o que chamamos de documentação, isto é, uma caixinha onde existe a descrição das funções.
+
+Antes de prosseguir, vale entender o que são funções. As funções são formas de automatizar tarefas repetitivas, ao invés precisar pensar como fazer uma tabela do zero, você pode só invocar a função ```data.frame()```, que alguém fez e imbutiu no R, e pronto.
+
+### GRÁFICOS!
+
+Para que façamos gráficos, é necessário que carreguemos os dados e também uma ```Biblioteca``` (também chamada de library). Libraries são pacotes que adicionam funcionalidades extras ao R, quase que como extensões da linguagem. Eles são feitos pela comunidade (sim, você pode fazer um!) e publicados no CRAN (Comprehensive R Archive Network), que é um repositório de libraries e também página oficial do time que desenvolve a linguagem. 
+
+A forma mais simples de fazer isso é por meio da função ```install.packages()```, então execute o seguinte comando: ```install.packages('tidyverse')```. Após isso, será instalada o Tidyverse, que é uma suíte de manipulação de dados e plotagem gráfica.
+
+#### Tidyverse
+
+Antes de tudo é necessário que você carregue a Biblioteca, para isso, utilize o comando ```library('tidyverse)```
+Importante notar que o ```tidyverse```, dentro do seu sub-pacote ```ggplot2``` contém em si algumas tabelas modelos, justamente para que possamos aprender a utiliza-lo, iremos aqui trabalhar com a ```ggplot2::mpg```, qual iremos atribuir à variavel ```carros```.
+
+```{r data}
+carros <- ggplot2::mpg
+#confira a tabela
+carros
+```
+
+Confira o significado dos dados de cada coluna utilizando a função ```help(ggplot2::carros)```
+
+Já tendo os dados carregados e sabendo o que eles significam, vamos ao gráfico!
+
+```{r}
+library(ggplot2)
+
+graf <- ggplot(data= carros, aes(x= class, y= hwy)) + #chama a função ggplot, ela indica ao R que aqui começará um gráfico. Aqui também indicamos que os dados (data) estão em carros.
+  geom_boxplot()
+
+graf
+```
+
+Yay! Você tem seu primeiro gráfico, mas e se eu também quero saber qual desses carros tem direção traseira, frontal ou 4x4? Basta só adicionar a variável 
+'colour' dentro da aes (nota: ```aes``` corresponde à aesthetic, ou seja, tudo que corresponde à estética do gráfico vai dentro de ```aes```)
+
+```{r}
+graf_colour <- ggplot(data= carros, aes(x= class, y= hwy)) +
+  geom_boxplot(aes(colour= drv))
+
+graf_colour
+```
+
+Perceba que ao adicionar ```colour```, apareceram caixas novas, isso é porque ao adicionar cores, o R entende que você quer dar ```dodge``` para que possa ver mais.
+
+Enfim, perceba que usamos ```geom_boxplot()```, o ```geom``` é o comando que define qual será o tipo de gráfico, e são diversos. Desde os ```geom_line``` e o ```geom_barplot```, até o ```geom_violin()```.
