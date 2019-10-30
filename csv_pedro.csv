@@ -1,0 +1,501 @@
+ano_coleta,estacao,parametro,possui_par
+2015,Auto - BR - São Bernardo,Taxa Precip. Pluviométrica,0
+2018,Auto - DC - Campos Elíseos,Pressão Atmosférica,0
+2009,Auto - DC - Jardim Primavera,Cádmio na PI,0
+2010,Auto - DC - Pilar,Cádmio na PTS,0
+2011,Auto - DC - São Bento,Chumbo na PI,0
+2012,Auto - DC - Vila São Luiz,Chumbo na PTS,0
+2013,Auto - Itb - Porto das Caixas,Cobre na PI,0
+2014,Auto - Itb - Sambaetiba,Cobre na PTS,0
+2015,Auto - Itg - Coroa Grande,Cromo na PI,0
+2016,Auto - Itg - Monte Serrat,Cromo na PTS,0
+2018,Auto - Jp - Engenheiro Pedreira,Ferro na PTS,0
+2014,Auto - Mt - Itacuruçá,Vanádio_PI,0
+2015,Auto - NI - Jardim Guandu,Zinco na PI,0
+2016,Auto - NI - Monteiro Lobato,Zinco na PTS,0
+2017,Auto - Nit - Caio Martins,Compostos Orgânicos Voláteis,0
+2011,Auto - RJ - Campos dos Afonsos,Taxa Precip. Pluviométrica,0
+2012,Auto - RJ - Centro,Amônia,0
+2013,Auto - RJ - Engenhão,Benzeno,0
+2014,Auto - RJ - Gamboa,"Benzeno, Tolueno e Xileno",0
+2015,Auto - RJ - Gericinó,Dióxido de Enxofre,0
+2016,Auto - RJ - Ilha de Paquetá,Dióxido de Nitrogênio,1
+2017,Auto - RJ - Ilha do Governador,Etil Benzeno,1
+2018,Auto - RJ - Jacarepaguá,Hidrocarbonetos Não-Metano,0
+2009,Auto - RJ - Lab. Inea,Hidrocarbonetos Totais,1
+2010,Auto - RJ - Lagoa,M+P Xyleno,0
+2011,Auto - RJ - Leblon,Metano,0
+2012,Auto - RJ - Lourenço Jorge,Monóxido de Carbono,1
+2013,Auto - RJ - Maracanã,Monóxido de Nitrogênio,0
+2014,Auto - RJ - São Conrado,Orto Xyleno,0
+2015,Auto - RJ - Taquara,Óxidos de Nitrogênio,1
+2016,Auto - RJ - Urca,Ozônio,1
+2017,Auto - RJ - VAN (Parque da Serra da Tiririca),Sulfeto de Hidrogênio,0
+2018,Auto - RJ - VAN (Parque do Mendanha),Tolueno,1
+2009,Auto - RJ - VAN (Sumaré-SBT),Xileno,1
+2012,Auto - SC - Adalgisa Nery,Dióxido de Enxofre,1
+2013,Auto - SC - João XXIII (Caminhao),Dióxido de Nitrogênio,1
+2014,Auto - SC - Largo do Bodegão,Hidrocarbonetos Não-Metano,1
+2015,Auto - SG - UERJ,Hidrocarbonetos Totais,1
+2018,Auto - SJM  - Coelho da Rocha,Monóxido de Nitrogênio,0
+2009,Auto - Sp - Piranema,Óxidos de Nitrogênio,1
+2013,Guapimirim (APA) - Meteorologia,Abertura de Porta,0
+2014,Semi -  Auto do Jacu,Detector de Incêndio,0
+2016,Semi - BR - Cedae,Falha do PLC,0
+2017,Semi - BR - Secretaria de Transporte,Bateria do Datalogger,0
+2009,Semi - CG - West Shopping,Radiação Solar Liquida,0
+2014,Semi - DC - Campos Elíseos,Dióxido de Enxofre,0
+2015,Semi - DC - INSS,Dióxido de Nitrogênio,0
+2016,Semi - DC - Jardim Primavera,Etil Benzeno,0
+2017,Semi - Guapimirim (APA),Ferro,0
+2018,Semi - Ilha Grande - UERJ,Hidrocarbonetos Não-Metano,0
+2009,Semi - Itb - Porto das Caixas,Hidrocarbonetos Totais,0
+2010,Semi - Itb - Sambaetiba,M+P Xyleno,0
+2011,Semi - Itg - Coroa Grande,Metano,0
+2014,Semi - NI - Monteiro Lobato,Orto Xyleno,0
+2015,Semi - Nit - Centro,Óxidos de Nitrogênio,0
+2016,Semi - Nit - Getulinho,Ozônio,0
+2017,Semi - Nit - Policlinica,Partículas Inaláveis (<10µm),1
+2018,Semi - Np - Rodoviária,Partículas Inaláveis < 2.5µm),0
+2009,Semi - RJ - Benfica,Partículas Respiráveis (<2.5),0
+2010,Semi - RJ - Bonsucesso,Partículas Totais em Suspensão,1
+2011,Semi - RJ - Botafogo,Sulfeto de Hidrogênio,0
+2012,Semi - RJ - Cajú,Tolueno,0
+2013,Semi - RJ - Campos dos Afonsos,Xileno,0
+2014,Semi - RJ - Castelo,Zinco,0
+2015,Semi - RJ - Cidade de Deus,Cádmio na PI,0
+2016,Semi - RJ - Copacabana,Cádmio na PTS,0
+2017,Semi - RJ - Crechê Bangu,Chumbo na PI,0
+2018,Semi - RJ - Engenhão,Chumbo na PTS,0
+2009,Semi - RJ - Gamboa,Cloretos na PTS,0
+2010,Semi - RJ - Gericinó,Cobre na PI,0
+2011,Semi - RJ - Lab. Inea,Cobre na PTS,0
+2012,Semi - RJ - Lagoa,Cromo na PI,0
+2013,Semi - RJ - Leblon,Cromo na PTS,0
+2014,Semi - RJ - Maracanã,Ferro na PI,0
+2015,Semi - RJ - Piscinão Ramos,Ferro na PTS,0
+2016,Semi - RJ - Realengo,Manganês na PI,0
+2017,Semi - RJ - Santa Tereza,Manganês na PTS,0
+2018,Semi - RJ - São Cristovão,Níquel na PI,0
+2009,Semi - RJ - Sumaré,Níquel na PTS,0
+2010,Semi - RJ - Tijuca,Vanádio na PTS,0
+2011,Semi - RJ - UERJ,Vanádio_PI,0
+2012,Semi - RJ - Urca,Zinco na PI,0
+2014,Semi - SC - Conjunto Alvorada,Alarme Operacional,0
+2015,Semi - SC - João XXIII,Desvio Padrão Dir. Vento,0
+2016,Semi - SG - Prefeitura,Direção Escalar do Vento,0
+2017,Semi - Sitio Terezinha,Partículas Inaláveis (<10µm),1
+2018,Semi - SJM - Vilar dos Teles,Partículas Respiráveis (<2.5),0
+2009,Semi - Sp - Embrapa,Partículas Totais em Suspensão,1
+2015,Auto - BR - São Bernardo,Pressão Atmosférica,0
+2018,Auto - DC - Campos Elíseos,Chumbo na PI,0
+2009,Auto - DC - Jardim Primavera,Chumbo na PTS,0
+2010,Auto - DC - Pilar,Cobre na PI,0
+2011,Auto - DC - São Bento,Cobre na PTS,0
+2012,Auto - DC - Vila São Luiz,Cromo na PI,0
+2013,Auto - Itb - Porto das Caixas,Cromo na PTS,0
+2014,Auto - Itb - Sambaetiba,Ferro na PI,0
+2015,Auto - Itg - Coroa Grande,Ferro na PTS,0
+2016,Auto - Itg - Monte Serrat,Manganês na PI,0
+2018,Auto - Jp - Engenheiro Pedreira,Níquel na PI,0
+2014,Auto - Mt - Itacuruçá,Compostos Orgânicos Voláteis,0
+2015,Auto - NI - Jardim Guandu,Hidrocarbonetos Totais,0
+2016,Auto - NI - Monteiro Lobato,Monóxido de Carbono,1
+2017,Auto - Nit - Caio Martins,Precipitação Pluviométrica,0
+2011,Auto - RJ - Campos dos Afonsos,"Benzeno, Tolueno e Xileno",0
+2012,Auto - RJ - Centro,Dióxido de Enxofre,1
+2013,Auto - RJ - Engenhão,Dióxido de Nitrogênio,1
+2014,Auto - RJ - Gamboa,Etil Benzeno,0
+2015,Auto - RJ - Gericinó,Hidrocarbonetos Não-Metano,0
+2016,Auto - RJ - Ilha de Paquetá,Hidrocarbonetos Totais,1
+2017,Auto - RJ - Ilha do Governador,M+P Xyleno,0
+2018,Auto - RJ - Jacarepaguá,Metano,0
+2009,Auto - RJ - Lab. Inea,Monóxido de Carbono,1
+2010,Auto - RJ - Lagoa,Monóxido de Nitrogênio,0
+2011,Auto - RJ - Leblon,Orto Xyleno,0
+2012,Auto - RJ - Lourenço Jorge,Óxidos de Nitrogênio,1
+2013,Auto - RJ - Maracanã,Ozônio,1
+2014,Auto - RJ - São Conrado,Sulfeto de Hidrogênio,0
+2015,Auto - RJ - Taquara,Tolueno,0
+2016,Auto - RJ - Urca,Xileno,0
+2017,Auto - RJ - VAN (Parque da Serra da Tiririca),Benzeno,1
+2018,Auto - RJ - VAN (Parque do Mendanha),"Benzeno, Tolueno e Xileno",0
+2009,Auto - RJ - VAN (Sumaré-SBT),Dióxido de Enxofre,1
+2012,Auto - SC - Adalgisa Nery,Hidrocarbonetos Totais,1
+2013,Auto - SC - João XXIII (Caminhao),Metano,1
+2014,Auto - SC - Largo do Bodegão,Monóxido de Carbono,0
+2015,Auto - SG - UERJ,Monóxido de Nitrogênio,1
+2018,Auto - SJM  - Coelho da Rocha,Tolueno,0
+2009,Auto - Sp - Piranema,Xileno,0
+2013,Guapimirim (APA) - Meteorologia,Falha do PLC,0
+2014,Semi -  Auto do Jacu,Bateria do Datalogger,0
+2016,Semi - BR - Cedae,Radiação Solar Liquida,0
+2017,Semi - BR - Secretaria de Transporte,Radiação Ultravioleta,0
+2009,Semi - CG - West Shopping,Benzeno,0
+2014,Semi - DC - Campos Elíseos,Ferro,0
+2015,Semi - DC - INSS,Hidrocarbonetos Não-Metano,0
+2016,Semi - DC - Jardim Primavera,Hidrocarbonetos Totais,0
+2017,Semi - Guapimirim (APA),M+P Xyleno,0
+2018,Semi - Ilha Grande - UERJ,Metano,0
+2009,Semi - Itb - Porto das Caixas,Monóxido de Carbono,0
+2010,Semi - Itb - Sambaetiba,Monóxido de Nitrogênio,0
+2011,Semi - Itg - Coroa Grande,Orto Xyleno,0
+2014,Semi - NI - Monteiro Lobato,Partículas Inaláveis (<10µm),1
+2015,Semi - Nit - Centro,Partículas Inaláveis < 2.5µm),0
+2016,Semi - Nit - Getulinho,Partículas Respiráveis (<2.5),0
+2017,Semi - Nit - Policlinica,Partículas Totais em Suspensão,0
+2018,Semi - Np - Rodoviária,Sulfeto de Hidrogênio,0
+2009,Semi - RJ - Benfica,Tolueno,0
+2010,Semi - RJ - Bonsucesso,Xileno,0
+2011,Semi - RJ - Botafogo,Zinco,0
+2012,Semi - RJ - Cajú,Cádmio na PI,0
+2013,Semi - RJ - Campos dos Afonsos,Cádmio na PTS,0
+2014,Semi - RJ - Castelo,Chumbo na PI,0
+2015,Semi - RJ - Cidade de Deus,Chumbo na PTS,0
+2016,Semi - RJ - Copacabana,Cloretos na PTS,0
+2017,Semi - RJ - Crechê Bangu,Cobre na PI,0
+2018,Semi - RJ - Engenhão,Cobre na PTS,0
+2009,Semi - RJ - Gamboa,Cromo na PI,0
+2010,Semi - RJ - Gericinó,Cromo na PTS,0
+2011,Semi - RJ - Lab. Inea,Ferro na PI,0
+2012,Semi - RJ - Lagoa,Ferro na PTS,0
+2013,Semi - RJ - Leblon,Manganês na PI,0
+2014,Semi - RJ - Maracanã,Manganês na PTS,0
+2015,Semi - RJ - Piscinão Ramos,Níquel na PI,0
+2016,Semi - RJ - Realengo,Níquel na PTS,0
+2017,Semi - RJ - Santa Tereza,Vanádio na PTS,0
+2018,Semi - RJ - São Cristovão,Vanádio_PI,0
+2009,Semi - RJ - Sumaré,Zinco na PI,0
+2010,Semi - RJ - Tijuca,Zinco na PTS,0
+2011,Semi - RJ - UERJ,Alarme Operacional,0
+2012,Semi - RJ - Urca,Desvio Padrão Dir. Vento,0
+2014,Semi - SC - Conjunto Alvorada,Partículas Inaláveis (<10µm),0
+2015,Semi - SC - João XXIII,Partículas Respiráveis (<2.5),0
+2016,Semi - SG - Prefeitura,Partículas Totais em Suspensão,1
+2017,Semi - Sitio Terezinha,Precipitação Pluviométrica,0
+2018,Semi - SJM - Vilar dos Teles,Pressão Atmosférica,0
+2009,Semi - Sp - Embrapa,Radiação Solar,0
+2015,Auto - BR - São Bernardo,Chumbo na PI,0
+2018,Auto - DC - Campos Elíseos,Cobre na PTS,0
+2009,Auto - DC - Jardim Primavera,Cromo na PI,0
+2010,Auto - DC - Pilar,Cromo na PTS,0
+2011,Auto - DC - São Bento,Ferro na PI,0
+2012,Auto - DC - Vila São Luiz,Ferro na PTS,0
+2013,Auto - Itb - Porto das Caixas,Manganês na PI,0
+2014,Auto - Itb - Sambaetiba,Manganês na PTS,0
+2015,Auto - Itg - Coroa Grande,Níquel na PI,0
+2016,Auto - Itg - Monte Serrat,Níquel na PTS,0
+2018,Auto - Jp - Engenheiro Pedreira,Vanádio_PI,0
+2014,Auto - Mt - Itacuruçá,Precipitação Pluviométrica,0
+2015,Auto - NI - Jardim Guandu,Taxa Precip. Pluviométrica,0
+2016,Auto - NI - Monteiro Lobato,Amônia,0
+2017,Auto - Nit - Caio Martins,Benzeno,1
+2011,Auto - RJ - Campos dos Afonsos,Etil Benzeno,0
+2012,Auto - RJ - Centro,Hidrocarbonetos Não-Metano,1
+2013,Auto - RJ - Engenhão,Hidrocarbonetos Totais,1
+2014,Auto - RJ - Gamboa,M+P Xyleno,0
+2015,Auto - RJ - Gericinó,Metano,0
+2016,Auto - RJ - Ilha de Paquetá,Monóxido de Carbono,1
+2017,Auto - RJ - Ilha do Governador,Monóxido de Nitrogênio,1
+2018,Auto - RJ - Jacarepaguá,Orto Xyleno,0
+2009,Auto - RJ - Lab. Inea,Óxidos de Nitrogênio,1
+2010,Auto - RJ - Lagoa,Ozônio,1
+2011,Auto - RJ - Leblon,Sulfeto de Hidrogênio,0
+2012,Auto - RJ - Lourenço Jorge,Tolueno,0
+2013,Auto - RJ - Maracanã,Xileno,0
+2014,Auto - RJ - São Conrado,Benzeno,0
+2015,Auto - RJ - Taquara,"Benzeno, Tolueno e Xileno",0
+2016,Auto - RJ - Urca,Dióxido de Enxofre,0
+2017,Auto - RJ - VAN (Parque da Serra da Tiririca),Dióxido de Nitrogênio,1
+2018,Auto - RJ - VAN (Parque do Mendanha),Hidrocarbonetos Não-Metano,1
+2009,Auto - RJ - VAN (Sumaré-SBT),Hidrocarbonetos Totais,1
+2012,Auto - SC - Adalgisa Nery,Monóxido de Nitrogênio,1
+2013,Auto - SC - João XXIII (Caminhao),Óxidos de Nitrogênio,1
+2014,Auto - SC - Largo do Bodegão,Ozônio,1
+2015,Auto - SG - UERJ,Tolueno,0
+2018,Auto - SJM  - Coelho da Rocha,Detector de Incêndio,0
+2009,Auto - Sp - Piranema,Falha de Energia,0
+2013,Guapimirim (APA) - Meteorologia,Radiação Solar Liquida,0
+2014,Semi -  Auto do Jacu,Radiação Ultravioleta,0
+2016,Semi - BR - Cedae,Benzeno,0
+2017,Semi - BR - Secretaria de Transporte,Carbono Orgânico,0
+2009,Semi - CG - West Shopping,Dióxido de Nitrogênio,0
+2014,Semi - DC - Campos Elíseos,M+P Xyleno,0
+2015,Semi - DC - INSS,Metano,0
+2016,Semi - DC - Jardim Primavera,Monóxido de Carbono,0
+2017,Semi - Guapimirim (APA),Monóxido de Nitrogênio,0
+2018,Semi - Ilha Grande - UERJ,Orto Xyleno,0
+2009,Semi - Itb - Porto das Caixas,Óxidos de Nitrogênio,0
+2010,Semi - Itb - Sambaetiba,Ozônio,0
+2011,Semi - Itg - Coroa Grande,Partículas Inaláveis (<10µm),0
+2014,Semi - NI - Monteiro Lobato,Partículas Totais em Suspensão,0
+2015,Semi - Nit - Centro,Sulfeto de Hidrogênio,0
+2016,Semi - Nit - Getulinho,Tolueno,0
+2017,Semi - Nit - Policlinica,Xileno,0
+2018,Semi - Np - Rodoviária,Zinco,0
+2009,Semi - RJ - Benfica,Cádmio na PI,0
+2010,Semi - RJ - Bonsucesso,Cádmio na PTS,0
+2011,Semi - RJ - Botafogo,Chumbo na PI,0
+2012,Semi - RJ - Cajú,Chumbo na PTS,0
+2013,Semi - RJ - Campos dos Afonsos,Cloretos na PTS,0
+2014,Semi - RJ - Castelo,Cobre na PI,0
+2015,Semi - RJ - Cidade de Deus,Cobre na PTS,0
+2016,Semi - RJ - Copacabana,Cromo na PI,0
+2017,Semi - RJ - Crechê Bangu,Cromo na PTS,0
+2018,Semi - RJ - Engenhão,Ferro na PI,0
+2009,Semi - RJ - Gamboa,Ferro na PTS,0
+2010,Semi - RJ - Gericinó,Manganês na PI,0
+2011,Semi - RJ - Lab. Inea,Manganês na PTS,0
+2012,Semi - RJ - Lagoa,Níquel na PI,0
+2013,Semi - RJ - Leblon,Níquel na PTS,0
+2014,Semi - RJ - Maracanã,Vanádio na PTS,0
+2015,Semi - RJ - Piscinão Ramos,Vanádio_PI,0
+2016,Semi - RJ - Realengo,Zinco na PI,0
+2017,Semi - RJ - Santa Tereza,Zinco na PTS,0
+2018,Semi - RJ - São Cristovão,Alarme Operacional,0
+2009,Semi - RJ - Sumaré,Desvio Padrão Dir. Vento,0
+2010,Semi - RJ - Tijuca,Direção Escalar do Vento,0
+2011,Semi - RJ - UERJ,Partículas Inaláveis (<10µm),1
+2012,Semi - RJ - Urca,Partículas Respiráveis (<2.5),0
+2014,Semi - SC - Conjunto Alvorada,Precipitação Pluviométrica,0
+2015,Semi - SC - João XXIII,Pressão Atmosférica,0
+2016,Semi - SG - Prefeitura,Radiação Solar,0
+2017,Semi - Sitio Terezinha,Temperatura,0
+2018,Semi - SJM - Vilar dos Teles,Umidade Relativa,0
+2009,Semi - Sp - Embrapa,Velocidade Escalar do Vento,0
+2015,Auto - BR - São Bernardo,Cobre na PTS,0
+2018,Auto - DC - Campos Elíseos,Ferro na PI,0
+2009,Auto - DC - Jardim Primavera,Ferro na PTS,0
+2010,Auto - DC - Pilar,Manganês na PI,0
+2011,Auto - DC - São Bento,Manganês na PTS,0
+2012,Auto - DC - Vila São Luiz,Níquel na PI,0
+2013,Auto - Itb - Porto das Caixas,Níquel na PTS,0
+2014,Auto - Itb - Sambaetiba,Vanádio na PTS,0
+2015,Auto - Itg - Coroa Grande,Vanádio_PI,0
+2016,Auto - Itg - Monte Serrat,Zinco na PI,0
+2018,Auto - Jp - Engenheiro Pedreira,Compostos Orgânicos Voláteis,0
+2014,Auto - Mt - Itacuruçá,Benzeno,0
+2015,Auto - NI - Jardim Guandu,"Benzeno, Tolueno e Xileno",0
+2016,Auto - NI - Monteiro Lobato,Dióxido de Enxofre,1
+2017,Auto - Nit - Caio Martins,Dióxido de Nitrogênio,1
+2011,Auto - RJ - Campos dos Afonsos,M+P Xyleno,0
+2012,Auto - RJ - Centro,Metano,1
+2013,Auto - RJ - Engenhão,Monóxido de Carbono,1
+2014,Auto - RJ - Gamboa,Monóxido de Nitrogênio,0
+2015,Auto - RJ - Gericinó,Orto Xyleno,0
+2016,Auto - RJ - Ilha de Paquetá,Óxidos de Nitrogênio,1
+2017,Auto - RJ - Ilha do Governador,Ozônio,1
+2018,Auto - RJ - Jacarepaguá,Sulfeto de Hidrogênio,0
+2009,Auto - RJ - Lab. Inea,Tolueno,0
+2010,Auto - RJ - Lagoa,Xileno,0
+2011,Auto - RJ - Leblon,Benzeno,0
+2012,Auto - RJ - Lourenço Jorge,"Benzeno, Tolueno e Xileno",0
+2013,Auto - RJ - Maracanã,Dióxido de Enxofre,0
+2014,Auto - RJ - São Conrado,Dióxido de Nitrogênio,0
+2015,Auto - RJ - Taquara,Hidrocarbonetos Não-Metano,1
+2016,Auto - RJ - Urca,Hidrocarbonetos Totais,0
+2017,Auto - RJ - VAN (Parque da Serra da Tiririca),Metano,1
+2018,Auto - RJ - VAN (Parque do Mendanha),Monóxido de Carbono,1
+2009,Auto - RJ - VAN (Sumaré-SBT),Monóxido de Nitrogênio,1
+2012,Auto - SC - Adalgisa Nery,Tolueno,0
+2013,Auto - SC - João XXIII (Caminhao),Xileno,1
+2014,Auto - SC - Largo do Bodegão,Abertura de Porta,0
+2015,Auto - SG - UERJ,Detector de Incêndio,0
+2018,Auto - SJM  - Coelho da Rocha,Bateria do Datalogger,0
+2009,Auto - Sp - Piranema,Radiação Solar,0
+2013,Guapimirim (APA) - Meteorologia,Benzeno,0
+2014,Semi -  Auto do Jacu,Carbono Orgânico,0
+2016,Semi - BR - Cedae,Dióxido de Nitrogênio,0
+2017,Semi - BR - Secretaria de Transporte,Etil Benzeno,0
+2009,Semi - CG - West Shopping,Hidrocarbonetos Não-Metano,0
+2014,Semi - DC - Campos Elíseos,Monóxido de Nitrogênio,0
+2015,Semi - DC - INSS,Orto Xyleno,0
+2016,Semi - DC - Jardim Primavera,Óxidos de Nitrogênio,0
+2017,Semi - Guapimirim (APA),Ozônio,0
+2018,Semi - Ilha Grande - UERJ,Partículas Inaláveis (<10µm),0
+2009,Semi - Itb - Porto das Caixas,Partículas Inaláveis < 2.5µm),0
+2010,Semi - Itb - Sambaetiba,Partículas Respiráveis (<2.5),0
+2011,Semi - Itg - Coroa Grande,Partículas Totais em Suspensão,0
+2014,Semi - NI - Monteiro Lobato,Xileno,0
+2015,Semi - Nit - Centro,Zinco,0
+2016,Semi - Nit - Getulinho,Cádmio na PI,0
+2017,Semi - Nit - Policlinica,Cádmio na PTS,0
+2018,Semi - Np - Rodoviária,Chumbo na PI,0
+2009,Semi - RJ - Benfica,Chumbo na PTS,0
+2010,Semi - RJ - Bonsucesso,Cloretos na PTS,0
+2011,Semi - RJ - Botafogo,Cobre na PI,0
+2012,Semi - RJ - Cajú,Cobre na PTS,0
+2013,Semi - RJ - Campos dos Afonsos,Cromo na PI,0
+2014,Semi - RJ - Castelo,Cromo na PTS,0
+2015,Semi - RJ - Cidade de Deus,Ferro na PI,0
+2016,Semi - RJ - Copacabana,Ferro na PTS,0
+2017,Semi - RJ - Crechê Bangu,Manganês na PI,0
+2018,Semi - RJ - Engenhão,Manganês na PTS,0
+2009,Semi - RJ - Gamboa,Níquel na PI,0
+2010,Semi - RJ - Gericinó,Níquel na PTS,0
+2011,Semi - RJ - Lab. Inea,Vanádio na PTS,0
+2012,Semi - RJ - Lagoa,Vanádio_PI,0
+2013,Semi - RJ - Leblon,Zinco na PI,0
+2014,Semi - RJ - Maracanã,Zinco na PTS,0
+2015,Semi - RJ - Piscinão Ramos,Alarme Operacional,0
+2016,Semi - RJ - Realengo,Desvio Padrão Dir. Vento,0
+2017,Semi - RJ - Santa Tereza,Direção Escalar do Vento,0
+2018,Semi - RJ - São Cristovão,Partículas Inaláveis (<10µm),1
+2009,Semi - RJ - Sumaré,Partículas Respiráveis (<2.5),0
+2010,Semi - RJ - Tijuca,Partículas Totais em Suspensão,1
+2011,Semi - RJ - UERJ,Precipitação Pluviométrica,0
+2012,Semi - RJ - Urca,Pressão Atmosférica,0
+2014,Semi - SC - Conjunto Alvorada,Temperatura,0
+2015,Semi - SC - João XXIII,Umidade Relativa,0
+2016,Semi - SG - Prefeitura,Velocidade Escalar do Vento,0
+2017,Semi - Sitio Terezinha,Umidade Relativa,0
+2018,Semi - SJM - Vilar dos Teles,Desvio Padrão Dir. Vento,0
+2009,Semi - Sp - Embrapa,Direção Escalar do Vento,0
+2015,Auto - BR - São Bernardo,Ferro na PI,0
+2018,Auto - DC - Campos Elíseos,Manganês na PTS,0
+2009,Auto - DC - Jardim Primavera,Níquel na PI,0
+2010,Auto - DC - Pilar,Níquel na PTS,0
+2011,Auto - DC - São Bento,Vanádio na PTS,0
+2012,Auto - DC - Vila São Luiz,Vanádio_PI,0
+2013,Auto - Itb - Porto das Caixas,Zinco na PI,0
+2014,Auto - Itb - Sambaetiba,Zinco na PTS,0
+2015,Auto - Itg - Coroa Grande,Compostos Orgânicos Voláteis,0
+2016,Auto - Itg - Monte Serrat,Hidrocarbonetos Totais,0
+2018,Auto - Jp - Engenheiro Pedreira,Precipitação Pluviométrica,1
+2014,Auto - Mt - Itacuruçá,Dióxido de Nitrogênio,1
+2015,Auto - NI - Jardim Guandu,Etil Benzeno,0
+2016,Auto - NI - Monteiro Lobato,Hidrocarbonetos Não-Metano,1
+2017,Auto - Nit - Caio Martins,Hidrocarbonetos Totais,1
+2011,Auto - RJ - Campos dos Afonsos,Monóxido de Nitrogênio,1
+2012,Auto - RJ - Centro,Orto Xyleno,0
+2013,Auto - RJ - Engenhão,Óxidos de Nitrogênio,1
+2014,Auto - RJ - Gamboa,Ozônio,1
+2015,Auto - RJ - Gericinó,Sulfeto de Hidrogênio,0
+2016,Auto - RJ - Ilha de Paquetá,Tolueno,0
+2017,Auto - RJ - Ilha do Governador,Xileno,1
+2018,Auto - RJ - Jacarepaguá,Benzeno,0
+2009,Auto - RJ - Lab. Inea,"Benzeno, Tolueno e Xileno",0
+2010,Auto - RJ - Lagoa,Dióxido de Enxofre,0
+2011,Auto - RJ - Leblon,Dióxido de Nitrogênio,0
+2012,Auto - RJ - Lourenço Jorge,Hidrocarbonetos Não-Metano,1
+2013,Auto - RJ - Maracanã,Hidrocarbonetos Totais,0
+2014,Auto - RJ - São Conrado,Metano,0
+2015,Auto - RJ - Taquara,Monóxido de Carbono,1
+2016,Auto - RJ - Urca,Monóxido de Nitrogênio,0
+2017,Auto - RJ - VAN (Parque da Serra da Tiririca),Óxidos de Nitrogênio,1
+2018,Auto - RJ - VAN (Parque do Mendanha),Ozônio,1
+2009,Auto - RJ - VAN (Sumaré-SBT),Tolueno,1
+2012,Auto - SC - Adalgisa Nery,Detector de Incêndio,0
+2013,Auto - SC - João XXIII (Caminhao),Falha de Energia,0
+2014,Auto - SC - Largo do Bodegão,Falha do PLC,0
+2015,Auto - SG - UERJ,Bateria do Datalogger,0
+2018,Auto - SJM  - Coelho da Rocha,Radiação Ultravioleta,0
+2009,Auto - Sp - Piranema,Etil Benzeno,0
+2013,Guapimirim (APA) - Meteorologia,Dióxido de Nitrogênio,0
+2014,Semi -  Auto do Jacu,Etil Benzeno,0
+2016,Semi - BR - Cedae,Hidrocarbonetos Não-Metano,0
+2017,Semi - BR - Secretaria de Transporte,Hidrocarbonetos Totais,0
+2009,Semi - CG - West Shopping,Metano,0
+2014,Semi - DC - Campos Elíseos,Ozônio,0
+2015,Semi - DC - INSS,Partículas Inaláveis (<10µm),1
+2016,Semi - DC - Jardim Primavera,Partículas Inaláveis < 2.5µm),0
+2017,Semi - Guapimirim (APA),Partículas Respiráveis (<2.5),0
+2018,Semi - Ilha Grande - UERJ,Partículas Totais em Suspensão,0
+2009,Semi - Itb - Porto das Caixas,Sulfeto de Hidrogênio,0
+2010,Semi - Itb - Sambaetiba,Tolueno,0
+2011,Semi - Itg - Coroa Grande,Xileno,0
+2014,Semi - NI - Monteiro Lobato,Cádmio na PTS,0
+2015,Semi - Nit - Centro,Chumbo na PI,0
+2016,Semi - Nit - Getulinho,Chumbo na PTS,0
+2017,Semi - Nit - Policlinica,Cloretos na PTS,0
+2018,Semi - Np - Rodoviária,Cobre na PI,0
+2009,Semi - RJ - Benfica,Cobre na PTS,0
+2010,Semi - RJ - Bonsucesso,Cromo na PI,0
+2011,Semi - RJ - Botafogo,Cromo na PTS,0
+2012,Semi - RJ - Cajú,Ferro na PI,0
+2013,Semi - RJ - Campos dos Afonsos,Ferro na PTS,0
+2014,Semi - RJ - Castelo,Manganês na PI,0
+2015,Semi - RJ - Cidade de Deus,Manganês na PTS,0
+2016,Semi - RJ - Copacabana,Níquel na PI,0
+2017,Semi - RJ - Crechê Bangu,Níquel na PTS,0
+2018,Semi - RJ - Engenhão,Vanádio na PTS,0
+2009,Semi - RJ - Gamboa,Vanádio_PI,0
+2010,Semi - RJ - Gericinó,Zinco na PI,0
+2011,Semi - RJ - Lab. Inea,Zinco na PTS,0
+2012,Semi - RJ - Lagoa,Alarme Operacional,0
+2013,Semi - RJ - Leblon,Desvio Padrão Dir. Vento,0
+2014,Semi - RJ - Maracanã,Direção Escalar do Vento,0
+2015,Semi - RJ - Piscinão Ramos,Partículas Inaláveis (<10µm),0
+2016,Semi - RJ - Realengo,Partículas Respiráveis (<2.5),0
+2017,Semi - RJ - Santa Tereza,Partículas Totais em Suspensão,1
+2018,Semi - RJ - São Cristovão,Precipitação Pluviométrica,0
+2009,Semi - RJ - Sumaré,Pressão Atmosférica,0
+2010,Semi - RJ - Tijuca,Radiação Solar,0
+2011,Semi - RJ - UERJ,Temperatura,0
+2012,Semi - RJ - Urca,Umidade Relativa,0
+2014,Semi - SC - Conjunto Alvorada,Umidade Relativa,0
+2015,Semi - SC - João XXIII,Desvio Padrão Dir. Vento,0
+2016,Semi - SG - Prefeitura,Direção Escalar do Vento,0
+2017,Semi - Sitio Terezinha,Temperatura,0
+2018,Semi - SJM - Vilar dos Teles,Pressão Atmosférica,0
+2009,Semi - Sp - Embrapa,Velocidade Escalar do Vento,0
+2015,Auto - BR - São Bernardo,Manganês na PTS,0
+2018,Auto - DC - Campos Elíseos,Vanádio na PTS,0
+2009,Auto - DC - Jardim Primavera,Vanádio_PI,0
+2010,Auto - DC - Pilar,Zinco na PI,0
+2011,Auto - DC - São Bento,Zinco na PTS,0
+2012,Auto - DC - Vila São Luiz,Compostos Orgânicos Voláteis,0
+2013,Auto - Itb - Porto das Caixas,Hidrocarbonetos Totais,1
+2014,Auto - Itb - Sambaetiba,Monóxido de Carbono,1
+2015,Auto - Itg - Coroa Grande,Precipitação Pluviométrica,1
+2016,Auto - Itg - Monte Serrat,Taxa Precip. Pluviométrica,0
+2018,Auto - Jp - Engenheiro Pedreira,Benzeno,0
+2014,Auto - Mt - Itacuruçá,Hidrocarbonetos Totais,0
+2015,Auto - NI - Jardim Guandu,M+P Xyleno,0
+2016,Auto - NI - Monteiro Lobato,Metano,1
+2017,Auto - Nit - Caio Martins,Monóxido de Carbono,0
+2011,Auto - RJ - Campos dos Afonsos,Ozônio,1
+2012,Auto - RJ - Centro,Sulfeto de Hidrogênio,0
+2013,Auto - RJ - Engenhão,Tolueno,0
+2014,Auto - RJ - Gamboa,Xileno,0
+2015,Auto - RJ - Gericinó,Benzeno,0
+2016,Auto - RJ - Ilha de Paquetá,"Benzeno, Tolueno e Xileno",0
+2017,Auto - RJ - Ilha do Governador,Dióxido de Enxofre,1
+2018,Auto - RJ - Jacarepaguá,Dióxido de Nitrogênio,0
+2009,Auto - RJ - Lab. Inea,Hidrocarbonetos Não-Metano,1
+2010,Auto - RJ - Lagoa,Hidrocarbonetos Totais,0
+2011,Auto - RJ - Leblon,Metano,0
+2012,Auto - RJ - Lourenço Jorge,Monóxido de Carbono,1
+2013,Auto - RJ - Maracanã,Monóxido de Nitrogênio,0
+2014,Auto - RJ - São Conrado,Óxidos de Nitrogênio,0
+2015,Auto - RJ - Taquara,Ozônio,1
+2016,Auto - RJ - Urca,Tolueno,0
+2017,Auto - RJ - VAN (Parque da Serra da Tiririca),Xileno,1
+2018,Auto - RJ - VAN (Parque do Mendanha),Abertura de Porta,0
+2009,Auto - RJ - VAN (Sumaré-SBT),Detector de Incêndio,0
+2012,Auto - SC - Adalgisa Nery,Bateria do Datalogger,0
+2013,Auto - SC - João XXIII (Caminhao),Radiação Solar,1
+2014,Auto - SC - Largo do Bodegão,Radiação Solar Liquida,0
+2015,Auto - SG - UERJ,Radiação Ultravioleta,0
+2018,Auto - SJM  - Coelho da Rocha,Carbono Orgânico,0
+2009,Auto - Sp - Piranema,Dióxido de Enxofre,1
+2013,Guapimirim (APA) - Meteorologia,Hidrocarbonetos Não-Metano,0
+2014,Semi -  Auto do Jacu,Hidrocarbonetos Totais,0
+2016,Semi - BR - Cedae,Metano,0
+2017,Semi - BR - Secretaria de Transporte,Monóxido de Carbono,0
+2009,Semi - CG - West Shopping,Orto Xyleno,0
+2014,Semi - DC - Campos Elíseos,Partículas Respiráveis (<2.5),1
+2015,Semi - DC - INSS,Partículas Totais em Suspensão,0
+2016,Semi - DC - Jardim Primavera,Sulfeto de Hidrogênio,0
+2017,Semi - Guapimirim (APA),Tolueno,0
+2018,Semi - Ilha Grande - UERJ,Xileno,0
+2009,Semi - Itb - Porto das Caixas,Zinco,0
+2010,Semi - Itb - Sambaetiba,Cádmio na PI,0
+2011,Semi - Itg - Coroa Grande,Cádmio na PTS,0
+2014,Semi - NI - Monteiro Lobato,Cloretos na PTS,0
+2015,Semi - Nit - Centro,Cobre na PI,0
+2016,Semi - Nit - Getulinho,Cobre na PTS,0
+2017,Semi - Nit - Policlinica,Cromo na PI,0
+2018,Semi - Np - Rodoviária,Cromo na PTS,0
+2009,Semi - RJ - Benfica,Ferro na PI,0
+2010,Semi - RJ - Bonsucesso,Ferro na PTS,0
