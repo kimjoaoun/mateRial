@@ -8,7 +8,7 @@ Ideal para iniciantes o R for Data Science ensina os básicos da manipulação e
 
 2. Hands-on Programming with R - Grolemund (https://rstudio-education.github.io/hopr/)
 
-O Hands-On Programming é um livro mais prático, em que você aprenderá de forma prática, pondo os conhecimentos à prova. Recomendo como segunda leitura.
+O Hands-On Programming é um livro mais dinâmico e interativo, em que você aprenderá de forma prática, pondo os conhecimentos à prova. Recomendo como segunda leitura.
 
 3. Fundamentals of Data Visualization - Wilke (https://serialmentor.com/dataviz/index.html)
 
